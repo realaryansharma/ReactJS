@@ -1,0 +1,11 @@
+REACT
+
+React is a Js library for building interactice user interfaces.
+
+Library? - React provide helpful functions to build UI, but leaves it up to the developer where to use those functions in their applications.
+
+Next Js -> a React framework, by framework we meant Next.js handles the tooling and configuration needed for React, and provides additional structure,
+features, and optimizations for your applications.
+
+So, use React to create or build your UI, then increamentally adapt Next.js features to solve common application request such as Routing, data fetching,
+integrations, etc.
