@@ -1,5 +1,3 @@
-REACT
-
 React is a Js library for building interactice user interfaces.
 
 Library? - React provide helpful functions to build UI, but leaves it up to the developer where to use those functions in their applications.
