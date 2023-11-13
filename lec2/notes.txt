@@ -1,0 +1,3 @@
+"this" -> return what is passed to it, if nothing is passed obv it will point to Window object.
+
+"this" in arrow functions work differently
